@@ -1,0 +1,15 @@
+# Windowc-CLI-Hacks
+
+manage users ```control userpasswords2```
+
+copy stdout to clipboard ``` | clip```
+
+find page IP addres ``` nslookup google.com ```
+
+display MAC address ``` getmac /v```
+
+turn off Windows Defender firewall ``` netsh advfirewall set allprofiles state off```
+
+trace route ``` tracert google.com```
+
+restart to BIOS ``` shutdown /r /fw /f /t 0 ```
